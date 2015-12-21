@@ -1,5 +1,5 @@
 
-<!-- Inserire questa porzione di codice subito dopo il tag <body> -->
+<!-- Inserire questa porzione di codice subito dopo il tag <body> e chiaramente inserite il link a posto di # in href=" " Cookies Policy-->
 
 <div id="cookie">
   <p>
