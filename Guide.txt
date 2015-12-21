@@ -22,7 +22,7 @@ function nascondi() {
 
 
 
-/* Inserire questa porzione di codice dentro il vostro foglio di stile */
+/* Inserire questa porzione di codice dentro il vostro foglio di stile .css */
 
 * {
   margin: 0;
