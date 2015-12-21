@@ -13,7 +13,7 @@
 
 
 
-/* Inserire questa porzione di codice dentro dei tag <script> </script> all'interno dei tag <head> </head> */
+/* Inserire questa porzione di codice dentro dei tag <script> </script> all'interno dei tag <head> </head> . Oppure potete crearvi un file .javascript da collegare alla pagina html invece di scrivere tutto dentro il tag script*/
 
 function nascondi() {
 		document.getElementById("cookie").style.display="none";
